@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\js\asynchronitiy\" />
+    <Folder Include="wwwroot\js\dom\" />
+    <Folder Include="wwwroot\js\types\" />
+  </ItemGroup>
+
+</Project>

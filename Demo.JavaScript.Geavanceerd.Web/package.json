@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "demo.javascript.geavanceerd.web",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
