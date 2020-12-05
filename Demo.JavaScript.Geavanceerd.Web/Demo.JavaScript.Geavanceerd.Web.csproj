@@ -7,7 +7,6 @@
   <ItemGroup>
     <Folder Include="wwwroot\js\asynchronitiy\" />
     <Folder Include="wwwroot\js\dom\" />
-    <Folder Include="wwwroot\js\types\" />
   </ItemGroup>
 
 </Project>
